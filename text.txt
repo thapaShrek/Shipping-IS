@@ -1,0 +1,13 @@
+UPS,Car,Deluxe,Poland,10000,online
+Amazon,train,Premium,Germnay,5000,on delivery
+DHL,Plane,Deluxe,Nepal,12000,on delivery
+NDS,Truck,Premium,India,20000,online
+MSC,Freight,Regular,France,45000,on delivery
+Cosco,Plane,Standard,China,30000,online
+CMA,Lorry,Standard,Brazil,10000,online
+ONE,Freight,Deluxe,England,50000,online
+Evergreen,Plane,Premium,Panama,55000,on delivery
+PIL,Car,Standard,Australia,30000,on delivery
+Hyundai,Truck,Deluxe,S.Korea,40000,online
+ZIM,Freight,Regular,Israel,20000,on delivery
+XPress,Train,Regular,Singapore,10000,on delivery
